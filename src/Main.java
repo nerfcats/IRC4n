@@ -1,3 +1,7 @@
+// * Copyright (c) 2024, noahdossan <noahpds@proton.me>
+// *
+// * SPDX-License-Identifier: GPL-2.0
+
 import interpreter.Interpreter;
 import printer.Printer;
 
