@@ -1,4 +1,4 @@
-// * Copyright (c) 2024, noahdossan <noahpds@proton.me>
+package main;// * Copyright (c) 2024, noahdossan <noahpds@proton.me>
 // *
 // * SPDX-License-Identifier: GPL-2.0
 
@@ -15,7 +15,7 @@ public class Main {
         // Ask the interpreter to ask the user to determine if irc4n should be client or server
         Interpreter.selectMode();
 
-        Printer.logInfo("End of Main reached, shutting down.");
+        Printer.logInfo("End of main.Main reached, shutting down.");
         // TO-DO: put clean-up here when it's actually needed
     }
 }
